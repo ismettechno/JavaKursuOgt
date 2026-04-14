@@ -7,5 +7,6 @@ public class _01_Merhaba {
         System.out.println("Merhaba 3");
         System.out.println("Merhaba 4");
         System.out.println("MErhaba 5");
+        System.out.println("Merhaba 6");
     }
 }
